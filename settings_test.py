@@ -10,3 +10,6 @@ hogehoge
 
 #excludeファイルの効果検証
 gehogeho
+
+#再検証
+aaaaaaaaaa
