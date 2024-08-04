@@ -7,3 +7,6 @@ hogehoge
 
 #リモート側で変更を加える
 リモート、リモート
+
+#excludeファイルの効果検証
+gehogeho
